@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374082235556",
+    "firebase_url": "https://evladimnerede-d730c.firebaseio.com",
+    "project_id": "evladimnerede-d730c",
+    "storage_bucket": "evladimnerede-d730c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374082235556:android:97b8e0abd38aa402fe4a31",
+        "android_client_info": {
+          "package_name": "com.cocuktakip.cocuktakipuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374082235556-l3htjmndpp2mfb08slir5b5gfml6f2kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cocuktakip.cocuktakipuygulamasi",
+            "certificate_hash": "55ee84984d28285b20b1e8b61c479053f543b1af"
+          }
+        },
+        {
+          "client_id": "374082235556-m2bcgjk01h8a3fq3jla8e1psp770rl7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZmUFp1VUWumZ7PjG7lmRD42KKmNFwaTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374082235556-m2bcgjk01h8a3fq3jla8e1psp770rl7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+name: cocuktakipuygulamasi
+description: Çocuk Takip Uygulaması
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: any
+  path: any
+  location: ^3.0.2
+  url_launcher: ^5.4.5
+  firebase_messaging: ^6.0.9
+  cloud_firestore: ^0.13.4+2
+  firebase_storage: ^3.1.5
+  get_mac: ^0.0.1
+  flutter_local_notifications: ^1.3.0
+  shared_preferences: ^0.5.6
+  e2e: 0.3.0
+  path_provider: ^1.3.1
+  schedule_controller: ^0.1.3+1
+  intl: ^0.16.1
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
